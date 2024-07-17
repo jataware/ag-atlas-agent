@@ -1,0 +1,46 @@
+Practice:
+  type: categorical
+  description: The agricultural practice or intervention applied.
+  unique_values: ['Inorganic Fertilizer', 'Reduced Tillage', 'Mulch (Trees)', 'Mulch (Herbs)', 'Intercropping', 'Green Manure', 'Organic Fertilizer', 'Alleycropping', 'Crop Rotation', 'Water Harvesting', 'Crop Residue Incorporation', 'Improved Varieties', 'Parklands', 'pH Control', 'Improved Fallow', 'Deficit Irrigation', 'Agroforestry Fallow', 'Supplemental Irrigation']
+
+Crop:
+  type: categorical
+  description: The crop to which the practice was applied.
+  unique_values: ['Maize', 'Pearl Millet', 'Sorghum', 'Rice', 'Cassava', 'Groundnut', 'Cowpea', 'Common Bean', 'Soybean', 'Yam', 'Wheat', 'Okra', 'Cotton', 'Sugar Cane', 'Banana Sweet', 'Potato', 'Barley', 'Cooking Banana', 'Sesame']
+
+AEZ_Class_FAO:
+  type: categorical
+  description: Agro-Ecological Zone classification by the Food and Agriculture Organization.
+  unique_values: ['Tropics, lowland; humid', 'Tropics, lowland; sub-humid', 'Tropics, lowland; semi-arid', 'Tropics, highland; semi-arid', 'Severe soil/terrain limitations', 'Tropics, highland; sub-humid', 'Tropics, highland; humid', 'Land with ample irrigated soils', 'Desert/Arid climate', 'Dominantly urban/built-up land', 'Subtropics, moderately cool; sub-humid']
+
+N_Obs:
+  type: int64
+  description: The number of observations or data points available for the practice.
+
+N_Pub:
+  type: int64
+  description: The number of publications or studies that support the data.
+
+Mean_T:
+  type: float64
+  description: The mean yield for the treatment group.
+
+Mean_C:
+  type: float64
+  description: The mean yield for the control group.
+
+Mean_Difference:
+  type: float64
+  description: The mean difference in yield between the treatment and control groups.
+
+Se:
+  type: float64
+  description: The standard error of the mean difference.
+
+Lower:
+  type: float64
+  description: The lower bound of the confidence interval for the mean difference.
+
+Upper:
+  type: float64
+  description: The upper bound of the confidence interval for the mean difference.

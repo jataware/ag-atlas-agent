@@ -1,0 +1,57 @@
+Practice:
+  type: categorical
+  description: The agricultural practice or intervention applied.
+  unique_values: ['Inorganic Fertilizer', 'Crop Residue', 'Crop Residue Incorporation', 'Reduced Tillage', 'Mulch (Herb)', 'Organic 
+Fertilizer', 'Water Harvesting', 'Mulch (Tree)', 'Improved Varieties', 'Alleycropping', 'pH Control', 'Crop Rotation', 'Intercropping', 'Green 
+Manure', 'Boundary Planting', 'Deficit Irrigation', 'Supplemental Irrigation', 'Agroforestry Fallow', 'Improved Fallow', 'Biochar', 
+'Agroforestry Pruning', 'Mulch']
+
+Outcome:
+  type: categorical
+  description: The measured outcome or impact of the agricultural practice.
+  unique_values: ['Crop Yield', 'Water Use Efficiency', 'Gross Return', 'Benefit Cost Ratio (GRTC)', 'Soil Organic Carbon', 'Yield Stability', 
+'LCL Risk']
+
+Product:
+  type: categorical
+  description: The crop or product that the practice was applied to.
+  unique_values: ['Sorghum', 'Cotton', 'Groundnut', 'Pearl Millet', 'Maize', 'Wheat', 'Cowpea', 'Tomato', 'Cassava', 'Rice', 'Pigeon Pea', 
+'Sugar Cane', 'Soybean', 'Chickpea', 'Teff', 'Common Bean', 'Cabbage', 'Okra', 'Yam', 'Potato', 'Sweet Potato', 'Fodder Legume', 'Sesame', 
+'Common Bean-Maize', 'Barley', 'Fava Bean', 'Maize-Pigeon Pea', 'Cowpea-Maize', 'Cotton-Maize', 'Maize-Soybean']
+
+Is.Combo:
+  type: bool
+  description: Indicates whether a combination of practices was used.
+
+Observations:
+  type: int64
+  description: The number of observations or data points available for the practice.
+
+Studies:
+  type: int64
+  description: The number of studies or research papers that support the data.
+
+Value:
+  type: float64
+  description: The quantitative value or effect size of the practice's outcome.
+
+Sig:
+  type: float64
+  description: The significance level of the observed effect.
+
+Value.se:
+  type: float64
+  description: The standard error of the value or effect size.
+
+CIlow:
+  type: float64
+  description: The lower bound of the confidence interval for the value.
+
+CIhigh:
+  type: float64
+  description: The upper bound of the confidence interval for the value.
+
+Source:
+  type: categorical
+  description: The source or type of data provided.
+  unique_values: ['Easy', 'Stability', 'Risk']
