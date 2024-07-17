@@ -1,0 +1,378 @@
+Practice,Outcome,Product,Is.Combo,Observations,Studies,Value,Sig,Value.se,CIlow,CIhigh,Source
+Inorganic Fertilizer,Crop Yield,Sorghum,FALSE,497,30,0.435,0,0.05,0.33738,0.5331,Easy
+Inorganic Fertilizer,Crop Yield,Cotton,FALSE,91,5,0.297,0.058,0.123,0.05605,0.53813,Easy
+Inorganic Fertilizer,Crop Yield,Groundnut,FALSE,223,25,0.187,0,0.038,0.11303,0.26101,Easy
+Inorganic Fertilizer,Crop Yield,Pearl Millet,FALSE,962,43,0.387,0,0.06,0.26869,0.50536,Easy
+Inorganic Fertilizer,Crop Yield,Maize,FALSE,5323,262,0.583,0,0.027,0.53049,0.63521,Easy
+Crop Residue,Crop Yield,Pearl Millet,FALSE,101,4,0.227,0.075,0.109,0.01322,0.44063,Easy
+Inorganic Fertilizer,Crop Yield,Wheat,FALSE,151,19,0.325,0.036,0.145,0.04165,0.60905,Easy
+Crop Residue Incorporation,Crop Yield,Wheat,FALSE,17,4,0.17,0.242,0.117,-0.05882,0.3979,Easy
+Reduced Tillage,Crop Yield,Wheat,FALSE,108,10,-0.017,0.787,0.058,-0.13118,0.09811,Easy
+Mulch (Herb),Crop Yield,Wheat,FALSE,31,5,0.116,0.053,0.043,0.03267,0.1996,Easy
+Organic Fertilizer,Crop Yield,Pearl Millet,FALSE,246,22,0.574,0.006,0.184,0.21238,0.93464,Easy
+Mulch (Herb),Crop Yield,Pearl Millet,FALSE,142,9,0.456,0.041,0.177,0.10949,0.80206,Easy
+Water Harvesting,Crop Yield,Pearl Millet,FALSE,50,4,0.355,0.351,0.102,0.15502,0.55532,Easy
+Organic Fertilizer,Crop Yield,Groundnut,FALSE,69,9,0.297,0.027,0.113,0.0755,0.51936,Easy
+Reduced Tillage,Crop Yield,Pearl Millet,FALSE,20,6,-0.232,0.004,0.072,-0.38137,-0.08188,Easy
+Organic Fertilizer,Water Use Efficiency,Pearl Millet,FALSE,36,5,0.658,0,0.077,0.50198,0.81453,Easy
+Inorganic Fertilizer,Water Use Efficiency,Maize,FALSE,822,27,0.497,0,0.06,0.37952,0.61492,Easy
+Inorganic Fertilizer,Water Use Efficiency,Pearl Millet,FALSE,112,7,0.503,0.078,0.187,0.1364,0.86929,Easy
+Inorganic Fertilizer,Crop Yield,Cowpea,FALSE,439,31,0.282,0,0.068,0.14919,0.41471,Easy
+Mulch (Tree),Crop Yield,Pearl Millet,FALSE,21,5,0.509,0.016,0.057,0.39844,0.62052,Easy
+Improved Varieties,Crop Yield,Maize,FALSE,280,13,0.238,0.01,0.084,0.07302,0.40348,Easy
+Improved Varieties,Crop Yield,Wheat,FALSE,142,4,0.054,0.268,0.041,-0.02709,0.13446,Easy
+Organic Fertilizer,Crop Yield,Tomato,FALSE,23,5,0.829,0.029,0.248,0.34289,1.31413,Easy
+Water Harvesting,Crop Yield,Sorghum,FALSE,172,18,0.189,0.032,0.081,0.03129,0.34723,Easy
+Mulch (Herb),Crop Yield,Sorghum,FALSE,62,10,0.138,0.027,0.054,0.03342,0.24345,Easy
+Water Harvesting,Water Use Efficiency,Sorghum,FALSE,71,4,0.27,0.063,0.093,0.08882,0.45195,Easy
+Alleycropping,Crop Yield,Cassava,FALSE,28,5,-0.016,0.941,0.201,-0.41037,0.37932,Easy
+Mulch (Tree),Crop Yield,Maize,FALSE,675,46,0.508,0,0.088,0.33506,0.68024,Easy
+Improved Varieties,Crop Yield,Cowpea,FALSE,533,10,-0.001,0.994,0.15,-0.29584,0.29356,Easy
+Mulch (Herb),Crop Yield,Tomato,FALSE,22,5,0.301,0.035,0.083,0.13865,0.46284,Easy
+Mulch (Herb),Crop Yield,Cassava,FALSE,33,5,0.064,0.54,0.092,-0.11661,0.24532,Easy
+Crop Residue Incorporation,Crop Yield,Cassava,FALSE,14,6,0.079,0.005,0.024,0.02865,0.13031,Easy
+Reduced Tillage,Crop Yield,Cassava,FALSE,16,5,-0.086,0.267,0.075,-0.23344,0.06057,Easy
+Mulch (Herb),Crop Yield,Cowpea,FALSE,104,8,0.285,0.004,0.069,0.14851,0.42066,Easy
+Organic Fertilizer,Crop Yield,Rice,FALSE,24,6,0.388,0.085,0.189,0.01678,0.7588,Easy
+Inorganic Fertilizer,Crop Yield,Pigeon Pea,FALSE,99,5,0.116,0.185,0.078,-0.03665,0.26781,Easy
+Inorganic Fertilizer,Crop Yield,Rice,FALSE,1098,49,0.436,0,0.033,0.37126,0.50141,Easy
+Inorganic Fertilizer,Crop Yield,Sugar Cane,FALSE,79,4,0.351,0.073,0.145,0.06665,0.63483,Easy
+Reduced Tillage,Crop Yield,Cowpea,FALSE,125,16,0.053,0.488,0.073,-0.08975,0.19622,Easy
+Mulch (Herb),Crop Yield,Maize,FALSE,698,59,0.254,0,0.04,0.1762,0.33167,Easy
+Reduced Tillage,Crop Yield,Maize,FALSE,870,79,0.013,0.657,0.03,-0.04481,0.07118,Easy
+Mulch (Herb),Crop Yield,Sugar Cane,FALSE,105,7,0.18,0.161,0.118,-0.05128,0.41194,Easy
+Reduced Tillage,Water Use Efficiency,Maize,FALSE,270,19,0.069,0.362,0.073,-0.07474,0.21235,Easy
+Inorganic Fertilizer,Crop Yield,Soybean,FALSE,245,26,0.332,0,0.05,0.23349,0.43113,Easy
+Inorganic Fertilizer,Crop Yield,Chickpea,FALSE,39,5,0.22,0,0.03,0.16101,0.27915,Easy
+Organic Fertilizer,Crop Yield,Maize,FALSE,726,74,0.609,0,0.045,0.52011,0.69785,Easy
+Crop Residue Incorporation,Crop Yield,Maize,FALSE,342,32,0.223,0.001,0.062,0.10043,0.34478,Easy
+pH Control,Crop Yield,Maize,FALSE,110,13,0.19,0.021,0.078,0.03802,0.34273,Easy
+Alleycropping,Crop Yield,Maize,FALSE,197,18,-0.076,0.315,0.074,-0.2211,0.06876,Easy
+Inorganic Fertilizer,Crop Yield,Teff,FALSE,88,6,0.53,0.001,0.079,0.37535,0.68438,Easy
+Reduced Tillage,Crop Yield,Teff,FALSE,12,4,-0.03,0.659,0.064,-0.15517,0.09472,Easy
+Crop Residue Incorporation,Crop Yield,Sorghum,FALSE,32,5,0.079,0.382,0.064,-0.04644,0.20465,Easy
+Organic Fertilizer,Crop Yield,Common Bean,FALSE,109,12,0.582,0.001,0.131,0.32561,0.839,Easy
+Mulch (Herb),Crop Yield,Common Bean,FALSE,12,4,0.168,0,0.032,0.09738,0.23878,Easy
+Inorganic Fertilizer,Crop Yield,Common Bean,FALSE,520,28,0.308,0.001,0.083,0.14661,0.47024,Easy
+Inorganic Fertilizer,Crop Yield,Cabbage,FALSE,5,4,1.01,,0.386,,,Easy
+Organic Fertilizer,Crop Yield,Cabbage,FALSE,7,4,1.116,0.035,0.41,0.11298,2.1191,Easy
+Inorganic Fertilizer,Crop Yield,Cassava,FALSE,419,25,0.304,0,0.045,0.21567,0.39316,Easy
+Water Harvesting,Crop Yield,Maize,FALSE,389,41,0.204,0,0.053,0.10074,0.30715,Easy
+Water Harvesting,Water Use Efficiency,Maize,FALSE,106,11,0.157,0.301,0.143,-0.12292,0.43768,Easy
+Inorganic Fertilizer,Gross Return,Maize,FALSE,92,17,0.599,0,0.131,0.3415,0.85579,Easy
+Improved Varieties,Crop Yield,Cassava,FALSE,350,10,0.146,0.083,0.076,-0.00344,0.29615,Easy
+Inorganic Fertilizer,Crop Yield,Okra,FALSE,29,4,0.531,0.007,0.104,0.32596,0.73541,Easy
+Mulch (Herb),Water Use Efficiency,Maize,FALSE,231,12,0.212,0.024,0.081,0.05409,0.37057,Easy
+Mulch (Herb),Gross Return,Maize,FALSE,27,5,0.306,0.031,0.104,0.10189,0.51033,Easy
+Crop Residue Incorporation,Crop Yield,Rice,FALSE,52,4,0.331,0.2,0.202,-0.06505,0.72621,Easy
+Inorganic Fertilizer,Crop Yield,Yam,FALSE,40,7,0.284,0.009,0.087,0.11288,0.45438,Easy
+Reduced Tillage,Crop Yield,Soybean,FALSE,64,11,0.001,0.991,0.095,-0.18525,0.18755,Easy
+Mulch (Herb),Crop Yield,Rice,FALSE,80,7,0.107,0.431,0.128,-0.14371,0.35821,Easy
+Reduced Tillage,Crop Yield,Sorghum,FALSE,141,16,-0.04,0.698,0.101,-0.23703,0.15762,Easy
+Mulch (Herb),Crop Yield,Soybean,FALSE,15,4,0.075,0.523,0.104,-0.12911,0.27922,Easy
+Reduced Tillage,Water Use Efficiency,Soybean,FALSE,27,4,0.142,0.455,0.166,-0.18317,0.46679,Easy
+Organic Fertilizer,Crop Yield,Cassava,FALSE,35,6,0.327,0.001,0.055,0.21836,0.43577,Easy
+Organic Fertilizer,Gross Return,Maize,FALSE,32,6,0.351,0,0.015,0.32066,0.38223,Easy
+Mulch (Herb),Crop Yield,Yam,FALSE,7,4,0.326,0.093,0.163,-0.07305,0.72537,Easy
+Crop Residue,Crop Yield,Maize,FALSE,40,7,0.198,0.088,0.104,-0.00465,0.40146,Easy
+Inorganic Fertilizer,Benefit Cost Ratio (GRTC),Maize,FALSE,35,6,0.006,0.964,0.131,-0.25046,0.26275,Easy
+Water Harvesting,Crop Yield,Cowpea,FALSE,48,8,0.128,0.09,0.063,0.00433,0.25128,Easy
+Water Harvesting,Gross Return,Maize,FALSE,7,4,0.565,0.009,0.149,0.20114,0.9295,Easy
+Organic Fertilizer,Crop Yield,Potato,FALSE,50,4,0.265,0,0.053,0.16127,0.36932,Easy
+Inorganic Fertilizer,Crop Yield,Potato,FALSE,59,5,0.095,0.001,0.027,0.04134,0.14845,Easy
+Improved Varieties,Gross Return,Maize,FALSE,19,4,0.051,0.664,0.106,-0.15803,0.25925,Easy
+Inorganic Fertilizer,Water Use Efficiency,Chickpea,FALSE,30,4,0.209,0.161,0.029,0.15158,0.26604,Easy
+Reduced Tillage,Water Use Efficiency,Cowpea,FALSE,38,4,-0.012,0.95,0.174,-0.35347,0.3295,Easy
+Inorganic Fertilizer,Crop Yield,Sweet Potato,FALSE,70,4,0.317,0.001,0.052,0.21486,0.41823,Easy
+Organic Fertilizer,Crop Yield,Sorghum,FALSE,212,21,0.417,0,0.06,0.29864,0.53454,Easy
+Mulch (Herb),Crop Yield,Groundnut,FALSE,33,4,0.025,0.728,0.063,-0.09908,0.14814,Easy
+Inorganic Fertilizer,Crop Yield,Tomato,FALSE,25,6,0.909,0.003,0.173,0.56922,1.2493,Easy
+Reduced Tillage,Crop Yield,Rice,FALSE,29,7,-0.143,0.052,0.059,-0.2582,-0.0281,Easy
+Inorganic Fertilizer,Crop Yield,Fodder Legume,FALSE,29,4,0.526,0.1,0.217,0.10136,0.95115,Easy
+Improved Varieties,Crop Yield,Common Bean,FALSE,96,4,0.383,0.143,0.22,-0.04919,0.81466,Easy
+Reduced Tillage,Gross Return,Maize,FALSE,11,5,0.13,0.001,0.03,0.06345,0.19743,Easy
+Mulch (Tree),Crop Yield,Sorghum,FALSE,75,7,0.373,0.041,0.095,0.18803,0.55875,Easy
+Mulch (Tree),Water Use Efficiency,Maize,FALSE,88,7,0.313,0.251,0.241,-0.15919,0.78483,Easy
+Organic Fertilizer,Crop Yield,Soybean,FALSE,63,7,0.556,0,0.082,0.39525,0.71727,Easy
+Organic Fertilizer,Crop Yield,Cowpea,FALSE,43,5,0.441,0.006,0.097,0.24977,0.63137,Easy
+Improved Varieties,Crop Yield,Rice,FALSE,264,8,0.204,0.14,0.124,-0.04014,0.44783,Easy
+Organic Fertilizer,Water Use Efficiency,Maize,FALSE,185,9,0.579,0.002,0.138,0.30838,0.84902,Easy
+Improved Varieties,Crop Yield,Sorghum,FALSE,77,5,0.141,0.173,0.086,-0.02784,0.31055,Easy
+Reduced Tillage,Crop Yield,Cotton,FALSE,37,4,-0.097,0.362,0.091,-0.27507,0.08098,Easy
+Alleycropping,Crop Yield,Sesame,FALSE,8,4,0.041,0.697,0.102,-0.15837,0.24119,Easy
+Alleycropping,Crop Yield,Common Bean,FALSE,50,5,0.041,0.864,0.225,-0.40059,0.48292,Easy
+Organic Fertilizer,Crop Yield,Wheat,FALSE,6,4,0.676,0.01,0.166,0.24873,1.10335,Easy
+Crop Rotation,Crop Yield,Pearl Millet,FALSE,79,5,0.25,0.025,0.067,0.11908,0.38179,Easy
+Crop Rotation,Crop Yield,Cowpea,FALSE,35,4,0.151,0.25,0.104,-0.05165,0.35442,Easy
+Intercropping,Crop Yield,Pearl Millet,FALSE,96,6,-0.184,0.054,0.074,-0.32793,-0.03928,Easy
+Intercropping,Crop Yield,Sorghum,FALSE,94,8,-0.006,0.933,0.071,-0.14504,0.13277,Easy
+Mulch (Tree),Crop Yield,Cowpea,FALSE,29,5,0.335,0.197,0.202,-0.06182,0.73087,Easy
+Intercropping,Crop Yield,Cowpea,FALSE,158,25,-0.443,0,0.084,-0.6074,-0.27786,Easy
+Intercropping,Crop Yield,Maize,FALSE,864,70,-0.066,0.004,0.022,-0.10918,-0.02212,Easy
+Intercropping,Crop Yield,Cassava,FALSE,121,16,-0.184,0.121,0.11,-0.40076,0.03202,Easy
+Intercropping,Crop Yield,Pigeon Pea,FALSE,45,4,-0.436,0.254,0.31,-1.0427,0.17097,Easy
+Green Manure,Crop Yield,Maize,FALSE,355,31,0.076,0.19,0.057,-0.03559,0.18727,Easy
+Green Manure,Crop Yield,Sorghum,FALSE,49,4,0.498,0.021,0.159,0.18648,0.80863,Easy
+Intercropping,Gross Return,Common Bean-Maize,FALSE,35,4,0.467,0.001,0.097,0.27758,0.65621,Easy
+Crop Rotation,Crop Yield,Sorghum,FALSE,48,5,0.455,0.013,0.13,0.20039,0.71035,Easy
+Crop Rotation,Crop Yield,Maize,FALSE,575,42,0.333,0,0.034,0.26748,0.39901,Easy
+Intercropping,Crop Yield,Soybean,FALSE,68,9,-0.568,0,0.091,-0.74693,-0.38891,Easy
+Intercropping,Gross Return,Maize,FALSE,26,5,0.013,0.893,0.088,-0.16023,0.18553,Easy
+Crop Rotation,Gross Return,Maize,FALSE,67,6,0.441,0.128,0.249,-0.04748,0.9304,Easy
+Intercropping,Crop Yield,Okra,FALSE,39,5,-0.176,0.403,0.18,-0.52952,0.17769,Easy
+Intercropping,Crop Yield,Common Bean,FALSE,31,5,-0.722,0.06,0.277,-1.26399,-0.17979,Easy
+Intercropping,Water Use Efficiency,Maize,FALSE,110,14,0.037,0.55,0.06,-0.08121,0.15513,Easy
+Intercropping,Water Use Efficiency,Cowpea,FALSE,38,9,-0.436,0.013,0.135,-0.70069,-0.17208,Easy
+Green Manure,Gross Return,Maize,FALSE,36,6,0.351,0.073,0.155,0.04826,0.65429,Easy
+Improved Varieties,Crop Yield,Soybean,FALSE,43,4,0.118,0.364,0.116,-0.10884,0.34417,Easy
+Crop Rotation,Water Use Efficiency,Maize,FALSE,48,6,0.199,0.122,0.108,-0.01158,0.41019,Easy
+Intercropping,Crop Yield,Cotton,FALSE,17,4,-0.3,0.211,0.187,-0.66668,0.066,Easy
+Crop Rotation,Crop Yield,Soybean,FALSE,9,4,0.102,0.018,0.035,0.02251,0.18176,Easy
+Water Harvesting,Crop Yield,Wheat,FALSE,25,4,0.251,0.088,0.101,0.05339,0.44912,Easy
+Inorganic Fertilizer,Crop Yield,Barley,FALSE,41,5,0.404,0.037,0.132,0.14482,0.66287,Easy
+Improved Varieties,Crop Yield,Fava Bean,FALSE,161,4,0.279,0.357,0.274,-0.25781,0.81551,Easy
+Intercropping,Crop Yield,Groundnut,FALSE,26,4,-0.559,0.062,0.191,-0.93264,-0.18521,Easy
+Inorganic Fertilizer,Water Use Efficiency,Rice,FALSE,247,5,0.429,0.049,0.154,0.12708,0.73015,Easy
+Reduced Tillage,Soil Organic Carbon,Wheat,FALSE,26,6,0.182,0.124,0.084,0.01634,0.34758,Easy
+Inorganic Fertilizer,Soil Organic Carbon,Pearl Millet,FALSE,36,5,0.074,0,0.019,0.03555,0.11176,Easy
+Mulch (Herb),Soil Organic Carbon,Pearl Millet,FALSE,44,4,0.043,0.167,0.031,-0.0188,0.10562,Easy
+Inorganic Fertilizer,Soil Organic Carbon,Maize,FALSE,227,21,0.121,0.004,0.037,0.04984,0.19305,Easy
+Mulch (Tree),Soil Organic Carbon,Maize,FALSE,85,6,0.323,0.005,0.064,0.19688,0.44949,Easy
+Organic Fertilizer,Soil Organic Carbon,Maize,FALSE,42,8,0.258,0.005,0.054,0.15213,0.36362,Easy
+Crop Residue Incorporation,Soil Organic Carbon,Maize,FALSE,35,5,0.167,0.093,0.083,0.00413,0.32895,Easy
+Reduced Tillage,Soil Organic Carbon,Maize,FALSE,123,11,0.151,0.003,0.033,0.08514,0.21624,Easy
+Mulch (Herb),Soil Organic Carbon,Maize,FALSE,49,4,0.163,0,0.035,0.09349,0.23348,Easy
+Organic Fertilizer,Soil Organic Carbon,Sorghum,FALSE,15,4,0.549,0,0.028,0.49457,0.6038,Easy
+Water Harvesting,Soil Organic Carbon,Maize,FALSE,24,5,0.174,0,0.039,0.0924,0.25459,Easy
+Intercropping,Soil Organic Carbon,Maize-Pigeon Pea,FALSE,9,4,0.08,0.407,0.084,-0.08324,0.2441,Easy
+Inorganic Fertilizer,Water Use Efficiency,Wheat,FALSE,23,5,0.129,0.138,0.074,-0.01597,0.27408,Easy
+Inorganic Fertilizer,Crop Yield,Pearl Millet,TRUE,502,26,0.652,0,0.102,0.45275,0.85162,Easy
+Inorganic Fertilizer,Crop Yield,Groundnut,TRUE,77,12,0.298,0.045,0.126,0.05097,0.54415,Easy
+Inorganic Fertilizer,Crop Yield,Maize,TRUE,3546,186,0.764,0,0.036,0.69266,0.83556,Easy
+Inorganic Fertilizer,Water Use Efficiency,Maize,TRUE,524,18,0.806,0,0.102,0.60589,1.00546,Easy
+Inorganic Fertilizer,Water Use Efficiency,Pearl Millet,TRUE,66,5,1.065,0.02,0.15,0.77053,1.35885,Easy
+Inorganic Fertilizer,Crop Yield,Teff,TRUE,22,5,0.844,0,0.081,0.68481,1.00285,Easy
+Inorganic Fertilizer,Crop Yield,Sorghum,TRUE,368,28,0.669,0,0.093,0.48625,0.85179,Easy
+Inorganic Fertilizer,Gross Return,Maize,TRUE,94,14,0.727,0,0.159,0.41449,1.03893,Easy
+Inorganic Fertilizer,Crop Yield,Rice,TRUE,264,22,0.505,0,0.087,0.33489,0.67551,Easy
+Inorganic Fertilizer,Crop Yield,Yam,TRUE,40,4,0.158,0.002,0.047,0.06649,0.25043,Easy
+Inorganic Fertilizer,Crop Yield,Cassava,TRUE,178,16,0.296,0.007,0.097,0.10572,0.48651,Easy
+Inorganic Fertilizer,Crop Yield,Cowpea,TRUE,300,20,0.409,0.093,0.23,-0.04089,0.85981,Easy
+Inorganic Fertilizer,Crop Yield,Potato,TRUE,86,4,0.474,0.014,0.184,0.11388,0.83453,Easy
+Inorganic Fertilizer,Crop Yield,Sweet Potato,TRUE,43,4,0.721,0.001,0.1,0.5251,0.91776,Easy
+Inorganic Fertilizer,Benefit Cost Ratio (GRTC),Maize,TRUE,25,4,-0.339,0.174,0.198,-0.72587,0.04855,Easy
+Inorganic Fertilizer,Crop Yield,Common Bean,TRUE,137,14,0.785,0.002,0.211,0.37043,1.19893,Easy
+Inorganic Fertilizer,Crop Yield,Wheat,TRUE,115,9,0.561,0.005,0.14,0.28758,0.83538,Easy
+Inorganic Fertilizer,Crop Yield,Soybean,TRUE,149,15,0.545,0,0.131,0.28726,0.80255,Easy
+Inorganic Fertilizer,Water Use Efficiency,Sorghum,TRUE,46,5,0.688,0.04,0.25,0.19868,1.17803,Easy
+Inorganic Fertilizer,Crop Yield,Cotton,TRUE,32,4,0.399,0.116,0.182,0.04226,0.75553,Easy
+Inorganic Fertilizer,Gross Return,Cowpea-Maize,TRUE,33,4,0.448,0.151,0.235,-0.01274,0.90964,Easy
+Inorganic Fertilizer,Soil Organic Carbon,Pearl Millet,TRUE,87,4,0.137,0,0.03,0.0783,0.1964,Easy
+Inorganic Fertilizer,Soil Organic Carbon,Maize,TRUE,221,20,0.366,0.004,0.106,0.15826,0.57384,Easy
+Inorganic Fertilizer,Soil Organic Carbon,Cowpea-Maize,TRUE,27,4,0.202,0.31,0.15,-0.09215,0.49713,Easy
+Crop Residue,Crop Yield,Pearl Millet,TRUE,134,7,0.619,0.03,0.231,0.16617,1.07178,Easy
+Crop Residue,Crop Yield,Maize,TRUE,705,59,0.461,0,0.057,0.34843,0.57294,Easy
+Crop Residue,Crop Yield,Sorghum,TRUE,83,7,0.318,0.004,0.055,0.21037,0.42592,Easy
+Crop Residue,Crop Yield,Cassava,TRUE,114,6,0.132,0.409,0.147,-0.15599,0.42001,Easy
+Crop Residue,Crop Yield,Rice,TRUE,56,6,0.539,0.038,0.191,0.16476,0.91271,Easy
+Crop Residue,Gross Return,Maize,TRUE,27,4,0.576,0.477,0.736,-0.86601,2.01724,Easy
+Crop Residue,Crop Yield,Soybean,TRUE,28,5,-0.056,0.698,0.137,-0.32497,0.21203,Easy
+Crop Residue,Crop Yield,Common Bean,TRUE,38,6,0.162,0.136,0.076,0.01271,0.31199,Easy
+Crop Residue,Soil Organic Carbon,Maize,TRUE,36,7,0.105,0.152,0.067,-0.02519,0.23552,Easy
+Crop Residue,Water Use Efficiency,Maize,TRUE,116,7,0.431,0.007,0.124,0.18804,0.67441,Easy
+Crop Residue Incorporation,Crop Yield,Maize,TRUE,564,48,0.503,0,0.067,0.37107,0.63413,Easy
+Crop Residue Incorporation,Crop Yield,Sorghum,TRUE,81,6,0.359,0,0.035,0.29059,0.42766,Easy
+Crop Residue Incorporation,Crop Yield,Cassava,TRUE,114,6,0.132,0.409,0.147,-0.15599,0.42001,Easy
+Crop Residue Incorporation,Crop Yield,Rice,TRUE,53,5,0.684,0.004,0.09,0.50799,0.86057,Easy
+Crop Residue Incorporation,Crop Yield,Common Bean,TRUE,16,4,0.033,0.628,0.067,-0.09755,0.16352,Easy
+Crop Residue Incorporation,Soil Organic Carbon,Maize,TRUE,36,7,0.105,0.152,0.067,-0.02519,0.23552,Easy
+Crop Residue Incorporation,Water Use Efficiency,Maize,TRUE,88,5,0.501,0.063,0.196,0.11649,0.88539,Easy
+Mulch (Herb),Crop Yield,Wheat,TRUE,59,8,0.19,0.157,0.117,-0.04035,0.41989,Easy
+Mulch (Herb),Crop Yield,Pearl Millet,TRUE,186,7,0.734,0.009,0.227,0.28865,1.17972,Easy
+Mulch (Herb),Crop Yield,Sorghum,TRUE,185,13,0.316,0,0.07,0.17873,0.45301,Easy
+Mulch (Herb),Crop Yield,Cassava,TRUE,57,6,0.217,0.396,0.233,-0.2391,0.67266,Easy
+Mulch (Herb),Crop Yield,Maize,TRUE,1520,79,0.305,0,0.035,0.23587,0.37463,Easy
+Mulch (Herb),Gross Return,Maize,TRUE,61,10,0.403,0.004,0.114,0.18008,0.62593,Easy
+Mulch (Herb),Water Use Efficiency,Maize,TRUE,475,21,0.352,0,0.042,0.26969,0.43394,Easy
+Mulch (Herb),Crop Yield,Rice,TRUE,53,7,0.194,0.259,0.156,-0.11109,0.4997,Easy
+Mulch (Herb),Crop Yield,Soybean,TRUE,24,5,0.37,0.029,0.115,0.14421,0.59617,Easy
+Mulch (Herb),Crop Yield,Cowpea,TRUE,120,8,0.475,0.006,0.102,0.27417,0.67596,Easy
+Mulch (Herb),Crop Yield,Groundnut,TRUE,38,6,0.36,0.149,0.209,-0.04913,0.76885,Easy
+Mulch (Herb),Crop Yield,Common Bean,TRUE,12,5,0.202,0.075,0.103,-0.02431,0.42822,Easy
+Mulch (Herb),Soil Organic Carbon,Wheat,TRUE,13,4,0.131,0.03,0.053,0.0266,0.2347,Easy
+Mulch (Herb),Soil Organic Carbon,Maize,TRUE,100,13,0.316,0.002,0.074,0.17144,0.45975,Easy
+Reduced Tillage,Crop Yield,Wheat,TRUE,79,8,0.072,0.315,0.061,-0.04717,0.19216,Easy
+Reduced Tillage,Crop Yield,Cowpea,TRUE,119,11,0.246,0.064,0.112,0.0267,0.46438,Easy
+Reduced Tillage,Crop Yield,Cassava,TRUE,13,6,-0.223,0.051,0.103,-0.4254,-0.02141,Easy
+Reduced Tillage,Crop Yield,Maize,TRUE,1608,84,0.189,0,0.031,0.12758,0.24943,Easy
+Reduced Tillage,Gross Return,Maize,TRUE,37,8,0.227,0.297,0.205,-0.17452,0.62849,Easy
+Reduced Tillage,Crop Yield,Sorghum,TRUE,231,14,0.443,0.007,0.148,0.15366,0.73224,Easy
+Reduced Tillage,Water Use Efficiency,Sorghum,TRUE,36,4,0.407,0.062,0.139,0.13489,0.6798,Easy
+Reduced Tillage,Crop Yield,Soybean,TRUE,39,9,0.123,0.311,0.114,-0.10019,0.3457,Easy
+Reduced Tillage,Crop Yield,Rice,TRUE,30,6,0.044,0.829,0.19,-0.32855,0.41597,Easy
+Reduced Tillage,Water Use Efficiency,Maize,TRUE,424,19,0.208,0,0.036,0.13703,0.27867,Easy
+Reduced Tillage,Crop Yield,Cotton,TRUE,22,5,-0.122,0.014,0.021,-0.1635,-0.08144,Easy
+Reduced Tillage,Crop Yield,Common Bean,TRUE,27,5,0.28,0.147,0.151,-0.01522,0.57564,Easy
+Reduced Tillage,Soil Organic Carbon,Wheat,TRUE,13,4,0.131,0.03,0.053,0.0266,0.2347,Easy
+Reduced Tillage,Soil Organic Carbon,Maize,TRUE,160,18,0.267,0.002,0.065,0.13816,0.39486,Easy
+Reduced Tillage,Soil Organic Carbon,Cotton-Maize,TRUE,12,4,0.16,0.043,0.07,0.00562,0.31378,Easy
+Reduced Tillage,Soil Organic Carbon,Maize-Soybean,TRUE,11,4,0.161,0.092,0.062,0.03909,0.28279,Easy
+Organic Fertilizer,Crop Yield,Pearl Millet,TRUE,138,14,0.73,0,0.15,0.43491,1.02464,Easy
+Organic Fertilizer,Crop Yield,Groundnut,TRUE,23,5,0.437,0.03,0.109,0.2221,0.65127,Easy
+Organic Fertilizer,Crop Yield,Tomato,TRUE,15,4,0.751,0.076,0.281,0.19962,1.3018,Easy
+Organic Fertilizer,Crop Yield,Maize,TRUE,785,74,0.956,0,0.06,0.83938,1.07283,Easy
+Organic Fertilizer,Water Use Efficiency,Maize,TRUE,286,11,0.925,0,0.169,0.59354,1.25667,Easy
+Organic Fertilizer,Gross Return,Maize,TRUE,25,5,1.256,0.014,0.327,0.61532,1.89599,Easy
+Organic Fertilizer,Water Use Efficiency,Pearl Millet,TRUE,28,4,0.523,0.193,0.304,-0.07228,1.11772,Easy
+Organic Fertilizer,Crop Yield,Cassava,TRUE,95,6,0.486,0.002,0.107,0.27719,0.69541,Easy
+Organic Fertilizer,Crop Yield,Common Bean,TRUE,72,7,0.404,0.155,0.259,-0.10353,0.91216,Easy
+Organic Fertilizer,Crop Yield,Sorghum,TRUE,313,22,0.58,0,0.069,0.44458,0.71502,Easy
+Organic Fertilizer,Crop Yield,Soybean,TRUE,105,9,0.69,0,0.108,0.47854,0.90153,Easy
+Organic Fertilizer,Crop Yield,Cowpea,TRUE,59,8,0.88,0.002,0.197,0.49343,1.26758,Easy
+Organic Fertilizer,Water Use Efficiency,Sorghum,TRUE,27,4,0.686,0.06,0.268,0.16067,1.21143,Easy
+Organic Fertilizer,Soil Organic Carbon,Maize,TRUE,50,9,0.426,0.058,0.188,0.05675,0.79537,Easy
+Improved Varieties,Crop Yield,Cassava,TRUE,178,5,0.317,0.234,0.234,-0.14232,0.77594,Easy
+Improved Varieties,Crop Yield,Maize,TRUE,236,20,0.362,0,0.083,0.19909,0.52561,Easy
+Improved Varieties,Crop Yield,Common Bean,TRUE,43,4,0.721,0.213,0.487,-0.23303,1.67541,Easy
+Improved Varieties,Crop Yield,Sorghum,TRUE,37,4,0.352,0.089,0.148,0.06225,0.64179,Easy
+Improved Varieties,Crop Yield,Wheat,TRUE,55,4,0.191,0.464,0.228,-0.25564,0.6375,Easy
+Water Harvesting,Crop Yield,Pearl Millet,TRUE,68,4,1.609,0.114,0.727,0.18464,3.03309,Easy
+Water Harvesting,Crop Yield,Cowpea,TRUE,27,6,-0.23,0.364,0.231,-0.6829,0.22272,Easy
+Water Harvesting,Crop Yield,Sorghum,TRUE,123,14,0.606,0,0.123,0.36529,0.8472,Easy
+Water Harvesting,Water Use Efficiency,Sorghum,TRUE,52,5,0.685,0.018,0.177,0.33748,1.03165,Easy
+Water Harvesting,Gross Return,Maize,TRUE,35,6,0.491,0.172,0.316,-0.12868,1.11045,Easy
+Water Harvesting,Crop Yield,Maize,TRUE,536,39,0.365,0,0.065,0.23799,0.49255,Easy
+Water Harvesting,Water Use Efficiency,Maize,TRUE,135,9,0.315,0.019,0.111,0.09669,0.53251,Easy
+Water Harvesting,Crop Yield,Soybean,TRUE,22,4,0.075,0.7,0.174,-0.2665,0.4156,Easy
+Boundary Planting,Crop Yield,Maize,TRUE,187,6,0.157,0.304,0.142,-0.12024,0.4351,Easy
+Deficit Irrigation,Crop Yield,Maize,TRUE,68,4,-0.002,0.986,0.134,-0.26472,0.25974,Easy
+Mulch (Tree),Crop Yield,Pearl Millet,TRUE,71,10,0.803,0.036,0.277,0.25946,1.34562,Easy
+Mulch (Tree),Crop Yield,Maize,TRUE,2229,94,0.602,0,0.061,0.48325,0.72157,Easy
+Mulch (Tree),Crop Yield,Cowpea,TRUE,138,11,-0.311,0.163,0.146,-0.59715,-0.02522,Easy
+Mulch (Tree),Crop Yield,Common Bean,TRUE,176,8,0.225,0.296,0.193,-0.15319,0.60413,Easy
+Mulch (Tree),Water Use Efficiency,Maize,TRUE,163,12,0.548,0.031,0.216,0.12366,0.97149,Easy
+Mulch (Tree),Crop Yield,Cassava,TRUE,167,10,-0.064,0.361,0.06,-0.18087,0.05341,Easy
+Mulch (Tree),Crop Yield,Sorghum,TRUE,101,8,0.335,0.006,0.071,0.19538,0.47538,Easy
+Mulch (Tree),Crop Yield,Rice,TRUE,14,5,0.052,0.872,0.302,-0.54018,0.64366,Easy
+Mulch (Tree),Crop Yield,Groundnut,TRUE,62,6,0.004,0.97,0.095,-0.18266,0.19056,Easy
+Mulch (Tree),Water Use Efficiency,Cowpea,TRUE,26,4,0.044,0.812,0.184,-0.33448,0.42272,Easy
+Mulch (Tree),Soil Organic Carbon,Maize,TRUE,249,15,0.288,0.024,0.1,0.09254,0.48266,Easy
+pH Control,Crop Yield,Maize,TRUE,225,13,0.644,0,0.122,0.4049,0.88272,Easy
+Supplemental Irrigation,Crop Yield,Maize,TRUE,75,5,0.625,0.121,0.318,0.00138,1.24943,Easy
+Supplemental Irrigation,Crop Yield,Rice,TRUE,8,4,0.917,0,0.15,0.56284,1.27091,Easy
+Supplemental Irrigation,Crop Yield,Sorghum,TRUE,21,5,1.006,0.049,0.313,0.39375,1.61899,Easy
+Supplemental Irrigation,Water Use Efficiency,Sorghum,TRUE,20,4,0.879,0.05,0.275,0.3394,1.41803,Easy
+Alleycropping,Crop Yield,Maize,TRUE,1200,56,0.248,0.001,0.072,0.10614,0.38947,Easy
+Alleycropping,Crop Yield,Cowpea,TRUE,81,8,-0.294,0.215,0.165,-0.61687,0.0292,Easy
+Alleycropping,Crop Yield,Common Bean,TRUE,174,9,0.129,0.43,0.15,-0.16515,0.42365,Easy
+Alleycropping,Water Use Efficiency,Maize,TRUE,99,9,0.265,0.641,0.489,-0.69359,1.22449,Easy
+Alleycropping,Crop Yield,Cassava,TRUE,155,8,-0.046,0.172,0.034,-0.11188,0.01971,Easy
+Alleycropping,Crop Yield,Groundnut,TRUE,56,6,0.023,0.778,0.075,-0.12411,0.17017,Easy
+Alleycropping,Water Use Efficiency,Cowpea,TRUE,26,4,0.044,0.812,0.184,-0.33448,0.42272,Easy
+Alleycropping,Crop Yield,Pearl Millet,TRUE,37,4,0.579,0,0.075,0.42768,0.73096,Easy
+Alleycropping,Soil Organic Carbon,Maize,TRUE,78,8,0.252,0.112,0.113,0.03053,0.47291,Easy
+Crop Rotation,Crop Yield,Pearl Millet,TRUE,115,4,0.468,0.013,0.09,0.29197,0.64408,Easy
+Crop Rotation,Crop Yield,Maize,TRUE,686,54,0.527,0,0.066,0.39661,0.657,Easy
+Crop Rotation,Crop Yield,Sorghum,TRUE,57,4,0.072,0.468,0.087,-0.09823,0.24197,Easy
+Crop Rotation,Crop Yield,Cowpea,TRUE,50,4,-0.265,0.555,0.418,-1.08439,0.55525,Easy
+Crop Rotation,Water Use Efficiency,Maize,TRUE,26,4,0.301,0.034,0.079,0.14503,0.45654,Easy
+Crop Rotation,Crop Yield,Soybean,TRUE,57,5,-0.139,0.585,0.243,-0.6147,0.33671,Easy
+Green Manure,Crop Yield,Sorghum,TRUE,49,5,0.39,0.262,0.298,-0.19499,0.97447,Easy
+Green Manure,Crop Yield,Maize,TRUE,809,49,0.448,0,0.049,0.35265,0.54356,Easy
+Green Manure,Crop Yield,Rice,TRUE,24,4,0.658,0.09,0.267,0.13409,1.18201,Easy
+Green Manure,Crop Yield,Common Bean,TRUE,23,6,0.16,0.114,0.083,-0.00321,0.3231,Easy
+Green Manure,Water Use Efficiency,Maize,TRUE,117,6,0.349,0,0.036,0.27933,0.41901,Easy
+Agroforestry Fallow,Crop Yield,Maize,TRUE,257,14,0.649,0,0.102,0.44919,0.84954,Easy
+Agroforestry Fallow,Crop Yield,Cassava,TRUE,32,5,0.092,0.272,0.082,-0.07551,0.25891,Easy
+Intercropping,Crop Yield,Cowpea,TRUE,164,13,-0.718,0.001,0.182,-1.07611,-0.36073,Easy
+Intercropping,Crop Yield,Pearl Millet,TRUE,78,5,0.056,0.748,0.162,-0.26255,0.37437,Easy
+Intercropping,Crop Yield,Maize,TRUE,913,53,0.284,0,0.053,0.17979,0.38771,Easy
+Intercropping,Crop Yield,Pigeon Pea,TRUE,60,4,-0.835,0.079,0.32,-1.4625,-0.2076,Easy
+Intercropping,Water Use Efficiency,Cowpea,TRUE,18,5,0.122,0.682,0.277,-0.42138,0.66586,Easy
+Intercropping,Crop Yield,Common Bean,TRUE,39,4,-0.287,0.098,0.122,-0.52605,-0.04775,Easy
+Intercropping,Crop Yield,Soybean,TRUE,63,6,-0.565,0.004,0.128,-0.81605,-0.31396,Easy
+Intercropping,Crop Yield,Cassava,TRUE,286,15,-0.053,0.616,0.103,-0.25511,0.14922,Easy
+Intercropping,Gross Return,Maize,TRUE,44,4,0.346,0.229,0.187,-0.02089,0.71344,Easy
+Intercropping,Crop Yield,Sorghum,TRUE,34,5,0.105,0.182,0.065,-0.02213,0.23127,Easy
+Intercropping,Water Use Efficiency,Maize,TRUE,139,10,0.469,0.019,0.17,0.13695,0.80172,Easy
+Intercropping,Gross Return,Cowpea-Maize,TRUE,53,5,0.427,0.043,0.15,0.13356,0.72123,Easy
+Improved Fallow,Crop Yield,Maize,TRUE,263,14,0.823,0,0.153,0.52226,1.12343,Easy
+Improved Fallow,Crop Yield,Rice,TRUE,14,4,0.086,0.815,0.337,-0.57486,0.74668,Easy
+Biochar,Crop Yield,Maize,TRUE,35,4,0.728,0.042,0.247,0.24486,1.21205,Easy
+Agroforestry Pruning,Yield Stability,Maize,TRUE,122,19,0.036,0.822,0.16,-0.277,0.349,Stability
+Alleycropping,Yield Stability,Maize,TRUE,91,15,0.258,0.187,0.195,-0.125,0.64,Stability
+Crop Residue Incorporation,Yield Stability,Maize,FALSE,7,5,0.01,0.977,0.326,-0.629,0.648,Stability
+Crop Residue Incorporation,Yield Stability,Maize,TRUE,9,4,-0.407,0.171,0.297,-0.989,0.175,Stability
+Crop Rotation,Yield Stability,Maize,FALSE,13,5,0.233,0.223,0.191,-0.142,0.608,Stability
+Crop Rotation,Yield Stability,Maize,TRUE,13,5,0.041,0.843,0.21,-0.369,0.452,Stability
+Green Manure,Yield Stability,Maize,TRUE,50,4,-0.331,0.242,0.283,-0.885,0.224,Stability
+Inorganic Fertilizer,Yield Stability,Maize,FALSE,106,12,-0.134,0.148,0.093,-0.315,0.048,Stability
+Inorganic Fertilizer,Yield Stability,Maize,TRUE,270,34,-0.199,0.419,0.247,-0.683,0.284,Stability
+Intercropping,Yield Stability,Maize,FALSE,43,14,0.101,0.536,0.164,-0.22,0.423,Stability
+Intercropping,Yield Stability,Maize,TRUE,57,12,-0.033,0.768,0.113,-0.255,0.189,Stability
+Mulch,Yield Stability,Maize,TRUE,95,21,0.023,0.851,0.123,-0.217,0.263,Stability
+Mulch (Herb),Yield Stability,Maize,FALSE,44,11,0.083,0.682,0.202,-0.314,0.48,Stability
+Mulch (Tree),Yield Stability,Maize,FALSE,11,5,-0.197,0.456,0.264,-0.715,0.321,Stability
+Organic Fertilizer,Yield Stability,Maize,FALSE,26,13,-0.181,0.254,0.158,-0.491,0.13,Stability
+Organic Fertilizer,Yield Stability,Maize,TRUE,37,11,-0.154,0.485,0.221,-0.587,0.279,Stability
+Reduced Tillage,Yield Stability,Maize,FALSE,37,12,0.032,0.768,0.11,-0.183,0.248,Stability
+Reduced Tillage,Yield Stability,Maize,TRUE,97,20,-0.013,0.963,0.28,-0.561,0.535,Stability
+Water Harvesting,Yield Stability,Maize,FALSE,18,7,0.016,0.933,0.195,-0.366,0.399,Stability
+Water Harvesting,Yield Stability,Maize,TRUE,21,5,0.477,0.017,0.2,0.084,0.869,Stability
+Inorganic Fertilizer,Yield Stability,Pearl Millet,FALSE,76,4,-0.066,0.743,0.2,-0.457,0.326,Stability
+Inorganic Fertilizer,Yield Stability,Pearl Millet,TRUE,129,9,-0.587,0.165,0.423,-1.415,0.242,Stability
+Inorganic Fertilizer,Yield Stability,Rice,TRUE,11,4,-0.258,0.568,0.452,-1.143,0.628,Stability
+Inorganic Fertilizer,Yield Stability,Sorghum,TRUE,35,5,-1.241,0.016,0.514,-2.249,-0.234,Stability
+Mulch,Yield Stability,Wheat,TRUE,10,5,0.131,0.603,0.253,-0.364,0.626,Stability
+Reduced Tillage,Yield Stability,Wheat,FALSE,9,4,-0.007,0.982,0.31,-0.615,0.601,Stability
+Reduced Tillage,Yield Stability,Wheat,TRUE,10,5,0.131,0.603,0.253,-0.364,0.626,Stability
+Inorganic Fertilizer,LCL Risk,Pearl Millet,TRUE,338,10,0.974444288,,0.017660599,0.939254776,1,Risk
+Inorganic Fertilizer,LCL Risk,Maize,TRUE,1530,44,0.932718547,,0.028231722,0.877103765,0.988333329,Risk
+Inorganic Fertilizer,LCL Risk,Sorghum,TRUE,176,7,0.949623321,,0.033950417,0.880833243,1,Risk
+Crop Residue,LCL Risk,Pearl Millet,TRUE,130,4,0.974333651,,0.006136165,0.96174328,0.986924022,Risk
+Crop Residue,LCL Risk,Maize,TRUE,254,10,0.83546057,,0.040426497,0.753876596,0.917044544,Risk
+Crop Residue Incorporation,LCL Risk,Maize,TRUE,222,9,0.822323279,,0.052229987,0.716179174,0.928467385,Risk
+Mulch (Herb),LCL Risk,Wheat,TRUE,53,6,0.437285475,,0.133297049,0.140281142,0.734289809,Risk
+Mulch (Herb),LCL Risk,Sorghum,TRUE,149,6,0.961536583,,0.008280504,0.944625538,0.978447629,Risk
+Mulch (Herb),LCL Risk,Maize,TRUE,720,31,0.809299535,,0.029350796,0.751295514,0.867303556,Risk
+Reduced Tillage,LCL Risk,Wheat,TRUE,53,6,0.437285475,,0.133297049,0.140281142,0.734289809,Risk
+Reduced Tillage,LCL Risk,Maize,TRUE,745,31,0.827142911,,0.064443732,0.699841591,0.954444231,Risk
+Organic Fertilizer,LCL Risk,Maize,TRUE,332,16,0.916234331,,0.033135911,0.849573477,0.982895186,Risk
+Organic Fertilizer,LCL Risk,Sorghum,TRUE,185,6,0.922800806,,0.012196481,0.898187311,0.947414301,Risk
+Water Harvesting,LCL Risk,Maize,TRUE,110,5,0.904967502,,0.026420695,0.850658986,0.959276018,Risk
+Mulch (Tree),LCL Risk,Maize,TRUE,1192,35,0.796672099,,0.044471539,0.708967943,0.884376255,Risk
+Mulch (Tree),LCL Risk,Cassava,TRUE,129,4,0.586272065,,0.109797095,0.360140715,0.812403414,Risk
+Mulch (Tree),LCL Risk,Sorghum,TRUE,95,7,0.859205876,,0.034177369,0.788816268,0.929595485,Risk
+Mulch (Tree),LCL Risk,Cowpea,TRUE,70,5,0.290328014,,0.066228907,0.150597234,0.430058793,Risk
+Alleycropping,LCL Risk,Maize,TRUE,705,26,0.692682368,,0.066448109,0.561241439,0.824123296,Risk
+Alleycropping,LCL Risk,Common Bean,TRUE,111,4,0.539277613,,0.087766112,0.358519922,0.720035304,Risk
+Alleycropping,LCL Risk,Cassava,TRUE,129,4,0.586272065,,0.109797095,0.360140715,0.812403414,Risk
+Alleycropping,LCL Risk,Cowpea,TRUE,46,4,0.23026444,,0.05118502,0.11447588,0.346053,Risk
+Crop Rotation,LCL Risk,Maize,TRUE,146,10,0.809312115,,0.058126018,0.691537616,0.927086614,Risk
+Green Manure,LCL Risk,Maize,TRUE,329,7,0.805852067,,0.05051478,0.7053435,0.906360635,Risk
+Intercropping,LCL Risk,Maize,TRUE,498,17,0.674128005,,0.073599416,0.527817208,0.820438802,Risk
+Reduced Tillage,LCL Risk,Wheat,FALSE,49,6,0.170042188,,0.095554845,0,0.382951651,Risk
+Inorganic Fertilizer,LCL Risk,Pearl Millet,FALSE,503,16,0.887772615,,0.036800181,0.814843294,0.960701935,Risk
+Organic Fertilizer,LCL Risk,Pearl Millet,FALSE,114,4,0.938129622,,0.029852933,0.875145438,1,Risk
+Inorganic Fertilizer,LCL Risk,Maize,FALSE,2178,65,0.929382676,,0.010905606,0.907955046,0.950810306,Risk
+Mulch (Herb),LCL Risk,Sorghum,FALSE,33,5,0.646112391,,0.142498969,0.323757329,0.968467454,Risk
+Reduced Tillage,LCL Risk,Cowpea,FALSE,68,8,0.547584392,,0.100041255,0.337405516,0.757763269,Risk
+Mulch (Herb),LCL Risk,Maize,FALSE,298,17,0.689235117,,0.090119833,0.507937398,0.870532836,Risk
+Reduced Tillage,LCL Risk,Maize,FALSE,426,30,0.505004363,,0.051743147,0.401926728,0.608081998,Risk
+Inorganic Fertilizer,LCL Risk,Sorghum,FALSE,113,6,0.809650009,,0.080304332,0.64540921,0.973890809,Risk
+Mulch (Tree),LCL Risk,Maize,FALSE,447,10,0.880286841,,0.048398531,0.783026352,0.97754733,Risk
+Crop Residue Incorporation,LCL Risk,Maize,FALSE,229,8,0.768660004,,0.100221308,0.562652156,0.974667852,Risk
+Organic Fertilizer,LCL Risk,Maize,FALSE,339,18,0.922264473,,0.020382727,0.881259715,0.96326923,Risk
+Inorganic Fertilizer,LCL Risk,Rice,FALSE,227,6,0.954794593,,0.025490892,0.902397314,1,Risk
+Reduced Tillage,LCL Risk,Soybean,FALSE,25,4,0.527398615,,0.181200324,0.098927934,0.955869296,Risk
+Water Harvesting,LCL Risk,Maize,FALSE,136,9,0.635041768,,0.105569595,0.416103828,0.853979707,Risk
+Alleycropping,LCL Risk,Maize,FALSE,82,6,0.307589289,,0.065851234,0.16635244,0.448826138,Risk
+Organic Fertilizer,LCL Risk,Sorghum,FALSE,116,7,0.936820468,,0.024191876,0.88748081,0.986160125,Risk
+Inorganic Fertilizer,LCL Risk,Groundnut,FALSE,96,7,0.895064658,,0.025322387,0.842912226,0.94721709,Risk
+Inorganic Fertilizer,LCL Risk,Cassava,FALSE,106,4,0.784755659,,0.062777864,0.65636051,0.913150808,Risk
+Mulch (Tree),LCL Risk,Sorghum,FALSE,66,4,0.875165772,,0.061341935,0.746291148,1,Risk
+Inorganic Fertilizer,LCL Risk,Cowpea,FALSE,50,4,0.525853909,,0.120105825,0.258241453,0.793466364,Risk
+Crop Rotation,LCL Risk,Pearl Millet,FALSE,45,4,0.915952116,,0.015114988,0.881759636,0.950144595,Risk
+Intercropping,LCL Risk,Maize,FALSE,402,18,0.37716621,,0.067039291,0.242922345,0.511410075,Risk
+Green Manure,LCL Risk,Maize,FALSE,173,7,0.765446243,,0.066296655,0.631746297,0.899146189,Risk
+Crop Rotation,LCL Risk,Maize,FALSE,104,9,0.654412533,,0.132934968,0.378722284,0.930102782,Risk

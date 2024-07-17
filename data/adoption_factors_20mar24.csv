@@ -1,0 +1,183 @@
+,practices,adoption_factors,direction,n
+1,Agroforestry,Access to credit,Negative,1
+2,Agroforestry,Access to credit,Not significant,9
+3,Agroforestry,Access to credit,Positive,2
+4,Agroforestry,Access to information,Negative,1
+5,Agroforestry,Access to information,Not significant,24
+6,Agroforestry,Access to information,Positive,15
+7,Agroforestry,Availability of labor,Negative,1
+8,Agroforestry,Availability of labor,Not significant,5
+9,Agroforestry,Availability of labor,Positive,4
+10,Agroforestry,Biophyiscal factors,Negative,1
+11,Agroforestry,Biophyiscal factors,Not significant,8
+12,Agroforestry,Biophyiscal factors,Positive,2
+13,Agroforestry,Changes in weather,Negative,1
+14,Agroforestry,Changes in weather,Not significant,5
+15,Agroforestry,Changes in weather,Positive,2
+16,Agroforestry,Distance to market,Negative,2
+17,Agroforestry,Distance to market,Not significant,5
+18,Agroforestry,Distance to market,Positive,6
+19,Agroforestry,Exposure to risks and shocks,Not significant,11
+20,Agroforestry,Exposure to risks and shocks,Positive,3
+21,Agroforestry,Other,Negative,8
+22,Agroforestry,Other,Not significant,17
+23,Agroforestry,Other,Positive,6
+24,Agroforestry,Resource endowments,Negative,4
+25,Agroforestry,Resource endowments,Not significant,29
+26,Agroforestry,Resource endowments,Positive,14
+27,Agroforestry,Secure tenure,Not significant,3
+28,Agroforestry,Secure tenure,Positive,2
+29,Agroforestry,Social capital,Negative,2
+30,Agroforestry,Social capital,Not significant,7
+31,Agroforestry,Social capital,Positive,9
+32,Agroforestry,Socio-demographics,Negative,3
+33,Agroforestry,Socio-demographics,Not significant,57
+34,Agroforestry,Socio-demographics,Positive,24
+35,Alleycropping,Access to credit,Not significant,3
+36,Alleycropping,Access to information,Not significant,5
+37,Alleycropping,Access to information,Positive,8
+38,Alleycropping,Availability of labor,Not significant,5
+39,Alleycropping,Availability of labor,Positive,3
+40,Alleycropping,Biophyiscal factors,Negative,2
+41,Alleycropping,Biophyiscal factors,Not significant,3
+42,Alleycropping,Biophyiscal factors,Positive,2
+43,Alleycropping,Changes in weather,Negative,1
+44,Alleycropping,Changes in weather,Not significant,1
+45,Alleycropping,Distance to market,Not significant,1
+46,Alleycropping,Distance to market,Positive,2
+47,Alleycropping,Other,Negative,6
+48,Alleycropping,Other,Not significant,7
+49,Alleycropping,Other,Positive,3
+50,Alleycropping,Resource endowments,Negative,6
+51,Alleycropping,Resource endowments,Not significant,13
+52,Alleycropping,Resource endowments,Positive,7
+53,Alleycropping,Secure tenure,Negative,1
+54,Alleycropping,Secure tenure,Not significant,4
+55,Alleycropping,Secure tenure,Positive,5
+56,Alleycropping,Social capital,Negative,1
+57,Alleycropping,Social capital,Not significant,5
+58,Alleycropping,Social capital,Positive,2
+59,Alleycropping,Socio-demographics,Negative,4
+60,Alleycropping,Socio-demographics,Not significant,20
+61,Alleycropping,Socio-demographics,Positive,11
+62,Boundary planting,Access to information,Not significant,5
+63,Boundary planting,Access to information,Positive,2
+64,Boundary planting,Availability of labor,Not significant,1
+65,Boundary planting,Biophyiscal factors,Not significant,2
+66,Boundary planting,Distance to market,Not significant,1
+67,Boundary planting,Exposure to risks and shocks,Not significant,3
+68,Boundary planting,Other,Positive,1
+69,Boundary planting,Resource endowments,Negative,1
+70,Boundary planting,Resource endowments,Not significant,4
+71,Boundary planting,Resource endowments,Positive,1
+72,Boundary planting,Secure tenure,Negative,1
+73,Boundary planting,Secure tenure,Not significant,2
+74,Boundary planting,Social capital,Not significant,1
+75,Boundary planting,Social capital,Positive,2
+76,Boundary planting,Socio-demographics,Not significant,12
+77,Boundary planting,Socio-demographics,Positive,3
+78,Nutrient management,Access to credit,Negative,7
+79,Nutrient management,Access to credit,Not significant,38
+80,Nutrient management,Access to credit,Positive,17
+81,Nutrient management,Access to information,Negative,14
+82,Nutrient management,Access to information,Not significant,84
+83,Nutrient management,Access to information,Positive,45
+84,Nutrient management,Availability of labor,Negative,6
+85,Nutrient management,Availability of labor,Not significant,25
+86,Nutrient management,Availability of labor,Positive,9
+87,Nutrient management,Biophyiscal factors,Negative,36
+88,Nutrient management,Biophyiscal factors,Not significant,108
+89,Nutrient management,Biophyiscal factors,Positive,34
+90,Nutrient management,Changes in weather,Negative,5
+91,Nutrient management,Changes in weather,Not significant,11
+92,Nutrient management,Changes in weather,Positive,13
+93,Nutrient management,Distance to market,Negative,19
+94,Nutrient management,Distance to market,Not significant,44
+95,Nutrient management,Distance to market,Positive,10
+96,Nutrient management,Exposure to risks and shocks,Negative,3
+97,Nutrient management,Exposure to risks and shocks,Not significant,21
+98,Nutrient management,Exposure to risks and shocks,Positive,3
+99,Nutrient management,Other,Negative,60
+100,Nutrient management,Other,Not significant,109
+101,Nutrient management,Other,Positive,65
+102,Nutrient management,Resource endowments,Negative,52
+103,Nutrient management,Resource endowments,Not significant,201
+104,Nutrient management,Resource endowments,Positive,109
+105,Nutrient management,Secure tenure,Negative,5
+106,Nutrient management,Secure tenure,Not significant,23
+107,Nutrient management,Secure tenure,Positive,18
+108,Nutrient management,Social capital,Negative,2
+109,Nutrient management,Social capital,Not significant,45
+110,Nutrient management,Social capital,Positive,12
+111,Nutrient management,Socio-demographics,Negative,54
+112,Nutrient management,Socio-demographics,Not significant,267
+113,Nutrient management,Socio-demographics,Positive,94
+114,Soil management,Access to credit,Negative,2
+115,Soil management,Access to credit,Not significant,12
+116,Soil management,Access to credit,Positive,3
+117,Soil management,Access to information,Negative,5
+118,Soil management,Access to information,Not significant,21
+119,Soil management,Access to information,Positive,15
+120,Soil management,Availability of labor,Negative,2
+121,Soil management,Availability of labor,Not significant,4
+122,Soil management,Availability of labor,Positive,2
+123,Soil management,Biophyiscal factors,Negative,7
+124,Soil management,Biophyiscal factors,Not significant,39
+125,Soil management,Biophyiscal factors,Positive,9
+126,Soil management,Changes in weather,Not significant,1
+127,Soil management,Changes in weather,Positive,1
+128,Soil management,Distance to market,Negative,5
+129,Soil management,Distance to market,Not significant,12
+130,Soil management,Distance to market,Positive,4
+131,Soil management,Exposure to risks and shocks,Not significant,1
+132,Soil management,Exposure to risks and shocks,Positive,3
+133,Soil management,Other,Negative,7
+134,Soil management,Other,Not significant,37
+135,Soil management,Other,Positive,14
+136,Soil management,Resource endowments,Negative,12
+137,Soil management,Resource endowments,Not significant,65
+138,Soil management,Resource endowments,Positive,25
+139,Soil management,Secure tenure,Not significant,9
+140,Soil management,Secure tenure,Positive,6
+141,Soil management,Social capital,Negative,6
+142,Soil management,Social capital,Not significant,11
+143,Soil management,Social capital,Positive,12
+144,Soil management,Socio-demographics,Negative,18
+145,Soil management,Socio-demographics,Not significant,84
+146,Soil management,Socio-demographics,Positive,12
+147,Water management,Access to credit,Negative,4
+148,Water management,Access to credit,Not significant,21
+149,Water management,Access to credit,Positive,8
+150,Water management,Access to information,Negative,12
+151,Water management,Access to information,Not significant,73
+152,Water management,Access to information,Positive,54
+153,Water management,Availability of labor,Negative,5
+154,Water management,Availability of labor,Not significant,17
+155,Water management,Availability of labor,Positive,10
+156,Water management,Biophyiscal factors,Negative,11
+157,Water management,Biophyiscal factors,Not significant,87
+158,Water management,Biophyiscal factors,Positive,46
+159,Water management,Changes in weather,Negative,3
+160,Water management,Changes in weather,Not significant,18
+161,Water management,Changes in weather,Positive,11
+162,Water management,Distance to market,Negative,11
+163,Water management,Distance to market,Not significant,39
+164,Water management,Distance to market,Positive,7
+165,Water management,Exposure to risks and shocks,Negative,2
+166,Water management,Exposure to risks and shocks,Not significant,22
+167,Water management,Exposure to risks and shocks,Positive,7
+168,Water management,Other,Negative,18
+169,Water management,Other,Not significant,70
+170,Water management,Other,Positive,27
+171,Water management,Resource endowments,Negative,20
+172,Water management,Resource endowments,Not significant,127
+173,Water management,Resource endowments,Positive,56
+174,Water management,Secure tenure,Negative,1
+175,Water management,Secure tenure,Not significant,18
+176,Water management,Secure tenure,Positive,10
+177,Water management,Social capital,Negative,7
+178,Water management,Social capital,Not significant,46
+179,Water management,Social capital,Positive,27
+180,Water management,Socio-demographics,Negative,31
+181,Water management,Socio-demographics,Not significant,173
+182,Water management,Socio-demographics,Positive,57
