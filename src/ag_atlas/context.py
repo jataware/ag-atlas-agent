@@ -1,7 +1,7 @@
-from archytas.react import ReActAgent, FailedTaskError
-from archytas.tools import PythonTool
+from beaker_bunsen.bunsen_context import BunsenContext
+from typing import TYPE_CHECKING, Any, Dict, List
 
-from easyrepl import REPL
+from .agent import AgAgent
 
 import pandas as pd
 
@@ -11,15 +11,28 @@ spotlight = pd.read_csv('data/spotlight2_Extended Table 2.csv')
 mean_yield_readme = open('data/mean_yield.txt').read()
 spotlight_readme = open('data/spotlight.txt').read()
 
-# create the agent with the tools list
-python = PythonTool(
-    prelude='import pandas as pd\nfrom matplotlib import pyplot as plt\nimport seaborn as sns\n',
-    locals={'mean_yield': mean_yield, 'spotlight': spotlight},
-)
-tools = [python]
+class AgContext(BunsenContext):
 
-agent = ReActAgent(tools=tools, verbose=True)
-context = f"""
+    agent_cls = AgAgent
+    enabled_subkernels = ["python3"]
+
+    async def setup(self, context_info=None, parent_header=None):
+        super().setup(context_info, parent_header)
+        return await self.load_dataset(parent_header=parent_header)
+
+    async def load_dataset(self, parent_header={}):
+        code = self.get_code("load_datasets")
+        response = await self.evaluate(
+            code,
+            parent_header=parent_header,
+        )        
+
+    @classmethod
+    def default_payload(cls) -> str:
+        return "{}"    
+
+    async def auto_context(self):
+        return f"""
 You are an assistant helping a user understand the Africa Agriculture Adapatation Atlas. This is a data source
 that can help the users understand the impact of farm management practices such as fertilizer application on crop yields in Africa.
 The data is organized by agroecological zone and crop type. Agro-Ecological Zone, is a land resource classification system developed by the Food and Agriculture Organization (FAO) 
@@ -55,13 +68,5 @@ You should use these dataframes in conjunction with the PythonTool to help the u
 When you write python code with the PythonTool, you should use your knowledge of the column names and values in the dataframes to craft
 correct code and queries that will help the user understand the data better. You can also use the PythonTool to plot graphs and visualize the data; 
 when doing so, default to using seaborn and writing descriptive titles and captions.
-"""
-id = agent.add_context(context)
+        """.strip()
 
-# REPL to interact with agent
-for query in REPL():
-    try:
-        answer = agent.react(query)
-        print(answer)
-    except FailedTaskError as e:
-        print(f"Error: {e}")
