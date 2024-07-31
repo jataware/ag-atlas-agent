@@ -1,0 +1,11 @@
+{
+    "package": "indra.tests.test_kappa_util",
+    "type": "code",
+    "language": "python3",
+    "resource_id": "python:py-mod:indra.tests.test_kappa_util",
+    "source_uri": "py-mod:indra.tests.test_kappa_util",
+    "generated_at": "2024-06-24T20:33:54.662119",
+    "source_sha256_hash": "380e2e8c9f8047e660258733f7b08f6740fefd9f4d9aa02bbd6707072b418023",
+    "start_line": 8,
+    "stop_line": 20
+  }
