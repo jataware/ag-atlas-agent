@@ -3,14 +3,8 @@
 An agent for exploring the Africa Agriculture Adaptation Atlas.
 
 ```
-pip install poetry
-poetry install
-poetry shell
-```
-
-then:
-
-```
 export OPENAI_API_KEY=your key here
-python agent.py
+docker-compose up -d
 ```
+
+This will kickoff a Docker build. Your notebook will be available at `localhost:8888`. Make sure to select the `ag_atlas` context (top left).
